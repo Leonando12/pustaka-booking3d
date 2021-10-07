@@ -1,5 +1,5 @@
 <footer>
-    <a href="12200808_Leo Nando Syah Putra">web by me</a>
+    <a href="12200465_Ardianti Dwi Novia">12200465 Ardianti Dwi Novia</a>
 </footer>
 </div>
 </body>
